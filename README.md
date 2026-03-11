@@ -4,7 +4,7 @@ I'm a Computer Science graduate and M.A. Data Analytics student at CUNY Queens C
 🛠️ What I Work With
 Languages: Python, SQL, Java, R, VBA, JavaScript, HTML/CSS
 Libraries: Pandas, NumPy, Matplotlib, ggplot2, dplyr
-Tools: Excel (Advanced), Power BI, Git, REST APIs, Oracle E-Business, AS400
+Tools: Excel (Advanced), Power BI, Git, REST APIs
 
 🚀 Featured Projects
 ProjectDescriptionStack🎮 Pac-ManFully functional Pac-Man clone with ghost AI, collision detection, and custom game loopJava, Swing📊 Behavior DashboardAutomated Excel VBA dashboard for student behavior tracking with dynamic charts and weekly filteringExcel, VBA📈 Trade AnalyzerCLI tool that enriches raw trade data with real-time P&L, position, and notional metrics across symbol, exchange, and portfolio levelsPython🌤️ Weather APIReal-time weather app with REST API integration and error handlingPython, CSS
