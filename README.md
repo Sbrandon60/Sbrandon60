@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURPROFILE">
+  <a href="https://www.linkedin.com/in/brandon-sanichar-67050232b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Sanichar335@gmail.com">
