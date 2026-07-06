@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 M.A. Data Analytics & Applied Social Research @ **CUNY Queens College** *(Expected 2026)*
-- 💼 Seeking entry-level **Data Analyst** or **Business Analyst** roles in NYC
+- 💼 Seeking entry-level **Data Analyst** or **Data Scientist** roles in NYC
 - 🛠️ I build data pipelines, automate workflows, and create dashboards that drive real decisions
 - 📫 Reach me at **Sanichar335@gmail.com**
 
